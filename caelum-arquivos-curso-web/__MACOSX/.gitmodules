@@ -1,0 +1,3 @@
+[submodule "mirrorfashion"]
+	path = mirrorfashion
+	url = https://github.com/ParzivalG12/agora-vai.git
